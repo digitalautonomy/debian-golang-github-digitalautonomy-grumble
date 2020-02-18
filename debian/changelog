@@ -1,0 +1,5 @@
+golang-github-digitalautonomy-grumble (0.0~git20200114.c109af8-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: 9999999)
+
+ -- Ola Bini <debian@olabini.se>  Tue, 18 Feb 2020 19:15:17 +0100
