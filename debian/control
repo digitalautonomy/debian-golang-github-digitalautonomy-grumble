@@ -22,4 +22,7 @@ Depends: ${misc:Depends},
          golang-golang-x-crypto-dev,
          golang-goprotobuf-dev,
          golang-websocket-dev
-Description: Alternative Mumble server - this fork makes it possible to use Grumble as a library.
+Description: Alternative Mumble server.
+ Allows the use of the Mumble protocol from inside of golang programs.
+ Several servers can be started or stopped independently. This library
+ is a fork of the original that fixes a number of problems.
