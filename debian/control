@@ -1,8 +1,8 @@
 Source: golang-github-digitalautonomy-grumble
 Section: devel
 Priority: optional
-Maintainer: Ola Bini <debian@olabini.se> 
-Uploaders: Ola Bini <debian@olabini.se>
+Maintainer: Ola Bini <debian@olabini.se>
+Uploaders: Ola Bini <debian_upload@olabini.se>
 Build-Depends: debhelper (>= 11),
                dh-golang,
                golang-any,
