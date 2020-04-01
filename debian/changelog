@@ -1,3 +1,10 @@
+golang-github-digitalautonomy-grumble (0.0~git20200401.ebe189c-1) UNRELEASED; urgency=medium
+
+  * New upstream release (ebe189c)
+  * Try running updating of packages on every build
+
+ -- Ola Bini <debian@olabini.se>  Wed, 01 Apr 2020 20:56:06 +0200
+
 golang-github-digitalautonomy-grumble (0.0~git20200114.c109af8-1) unstable; urgency=medium
 
   * Initial release (Closes: 999999)
