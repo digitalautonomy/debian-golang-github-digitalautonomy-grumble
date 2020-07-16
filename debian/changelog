@@ -1,3 +1,9 @@
+golang-github-digitalautonomy-grumble (0.0~git20200716.8faaa92-1) UNRELEASED; urgency=medium
+
+  * New upstream release (8faaa92)
+
+ -- Ola Bini <debian@olabini.se>  Thu, 16 Jul 2020 19:54:19 +0200
+
 golang-github-digitalautonomy-grumble (0.0~git20200711.c876ee6-1) unstable; urgency=medium
 
   * New upstream release (c876ee6)
