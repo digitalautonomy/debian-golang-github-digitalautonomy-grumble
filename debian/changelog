@@ -1,3 +1,13 @@
+golang-github-digitalautonomy-grumble (0.0~git20200716.8faaa92-1) UNRELEASED; urgency=medium
+
+  [ CAD Debian Packager ]
+  * New upstream release (8faaa92)
+
+  [ Ola Bini ]
+  * Update gitlab configuration
+
+ -- CAD Debian Packager <debian-packager@autonomia.digital>  Wed, 26 Apr 2023 01:15:10 +0000
+
 golang-github-digitalautonomy-grumble (0.0~git20200716.8faaa92-1) unstable; urgency=medium
 
   * New upstream release (8faaa92)
