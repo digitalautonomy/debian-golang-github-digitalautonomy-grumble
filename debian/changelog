@@ -1,4 +1,4 @@
-golang-github-digitalautonomy-grumble (0.0.1-1) UNRELEASED; urgency=medium
+golang-github-digitalautonomy-grumble (0.0.1-1) unstable; urgency=medium
 
   [ CAD Debian Packager ]
   * New upstream release (6153d23)
